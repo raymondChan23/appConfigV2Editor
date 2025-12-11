@@ -1,0 +1,5 @@
+{
+  "name": "Copy of JSON Config Editor",
+  "description": "A visual editor for application configuration JSON files with validation, color pickers, and data visualization.",
+  "requestFramePermissions": []
+}
