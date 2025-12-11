@@ -13,7 +13,9 @@
     "recharts": "^3.5.1",
     "lucide-react": "^0.559.0",
     "react": "^19.2.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "vite": "^7.2.7",
+    "@vitejs/plugin-react": "^5.1.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
